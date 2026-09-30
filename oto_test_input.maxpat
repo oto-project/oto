@@ -692,7 +692,7 @@
                     "numoutlets": 1,
                     "outlettype": [ "" ],
                     "patching_rect": [ 60.0, 508.0, 51.0, 76.0 ],
-                    "text": "/oto_in/forward_speed 54.857143"
+                    "text": "/oto_in/forward_speed 72.228571"
                 }
             },
             {
